@@ -519,7 +519,7 @@ ul.product_list.list > li .right-block .right-block-content .functional-buttons 
   #index ul.product_list.tab-pane > li.last-line {
     border: none;
     padding-bottom: 0;
-    margin-bottom: 0;
+    margin-bottom: 60px; /*0*/
   }
   #index ul.product_list.tab-pane > li.last-line.hovered {
     margin-bottom: -300px;
